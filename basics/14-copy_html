@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -u *hmtl /holbertonschool-shell
+cp -u *.hmtl /holbertonschool-shell
